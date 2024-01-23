@@ -1,5 +1,5 @@
 # protonMailGenerator
-A E-Mail Generator
+An E-Mail Generator
 
 
 ## WHAT MAKES THIS BETTER
@@ -21,14 +21,16 @@ install python: https://www.python.org/downloads/
 and don't forget to add python to your PATH
 
 open cmd and type in:
-  
-  pip install Pillow
-  
-  pip install pyautogui
+
+```python
+pip install Pillow
+
+pip install pyautogui
+```
 
 (write everything individually)
 
-then start by either writing py generator.py/chromegen.py in your commandline or 
+then start by either writing `py generator.py` or `py chromegen.py` in your commandline or by
 clicking the launch.cmd
 be sure to click nothing while the script is running otherwise you could interfere with it!
 when finished you can find the mail and password in the accLog.txt
