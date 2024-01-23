@@ -1,4 +1,3 @@
-#Michi4
 from PIL import Image
 import pyautogui
 import sys
